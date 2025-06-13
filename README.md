@@ -13,7 +13,7 @@ An interactive 3D product viewer built with Three.js, showcasing a sleek and fut
 
 ## Screenshot
 
-![3D Router Model](src/visuals/router-screenshot.png)
+![3D Router Model](src/visuals/router.jpg)
 
 ## Tech Stack
 
