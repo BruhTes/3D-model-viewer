@@ -27,12 +27,12 @@ To get this project up and running on your local machine, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [your-repo-url] # Replace with your actual repository URL
+    git clone https://github.com/BruhTes/3D-model-viewer
     ```
 
 2.  **Navigate into the project directory:**
     ```bash
-    cd graphics # Assuming 'graphics' is the folder name
+    cd 3D-model-viewer
     ```
 
 3.  **Install dependencies:**
